@@ -7,3 +7,4 @@ Tasty Italian bread snack
 * 2 tsp olive oil
 * 5 loafs of bread
 * 3 tsp Orgeano Spice
+* 1 tsp salt
